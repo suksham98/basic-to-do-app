@@ -1,0 +1,3 @@
+# Demo To-Do Project with Django and React JS
+
+Pending... 
