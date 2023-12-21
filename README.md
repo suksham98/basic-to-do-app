@@ -4,13 +4,16 @@
 
 #### To setup or run the project, follow the following steps:
 1. Create a folder 
-  ```mkdir new_folder
+  ```
+  mkdir new_folder
   ```
 2. Change the working directory to the new folder that you have created
-  ```cd new_folder
+  ```
+  cd new_folder
   ```
 3. Now clone the project from GitHub using following command:
-  ```git clone https://github.com/suksham98/basic-to-do-app.git
+  ```
+  git clone https://github.com/suksham98/basic-to-do-app.git
   ```
 4. Create virtual environment by following command:
   ```
@@ -21,17 +24,17 @@
   venv/Scripts/activate
   ```
 6. Change the working directory to basic-to-do-app:
-   ```
-   cd cd basic-to-do-app
-   ```
+  ```
+  cd cd basic-to-do-app
+  ```
 7. Now, to run the project, first we will start backend server by command:
-   ```
-   cd backend
-   python manage.py runserver
-   ```
+  ```
+  cd backend
+  python manage.py runserver
+  ```
    For frontend you need to open new terminal and then,
    To run frontend code, run the following command:
-   ```
-   cd frontend
-   npm start
-   ```
+  ```
+  cd frontend
+  npm start
+  ```
